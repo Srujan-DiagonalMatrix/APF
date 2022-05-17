@@ -12,7 +12,7 @@ This is git repo is to build PoC on following use cases:
 We build Useases on above sceario and visualise output. The data we use is non-buisness sensitive or synthetic data.
 
 # Directory structure:
-datasets: Input data is stored in this directory <n/>
+datasets: Input data is stored in this directory
 docs: business requirements or other reference documents are stored here.
 output: stores output files of ML models.
 reports: reads from output folder and visualise here.
