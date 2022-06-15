@@ -1,0 +1,5 @@
+Model Name,Accuracy
+Random Forest,0.8154908922506947
+XGBClassifier,0.8733019450447669
+K Nearest Neighbour,0.7831892559431923
+Decision Tree,0.9019759184933621
